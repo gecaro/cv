@@ -1,91 +1,56 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Gerard Camps's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Gerard Camps i Romaguera
+Data engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="gerardcamps0@gmail.com">gerardcamps0@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Data Engineer @ [Holded](https://www.linkedin.com/company/holded/)
 
-### Specialized in
+Since 2019 I work at Holded. Started as a QA Engineer intern while finishing my degree and then moved to the Data Team (which has always been what I wanted to do in the first place). Good thing about QA-ing is that I developed my inner scrum-master. 
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+As of now, I have been working for a year on the Data team as a Data Engineer. My tasks consist on the following:
+* Develop and mantain our ELT pipelines to populate our DW.
+* Working (a lot) with different APIs to create integrations on data destinations for reverse ETL.
+* Mantaining GTM on a Server-Side approach. 
+* Working closely with the Analytics and Growth teams to coordinate their Data needs. 
+
+### My skills
+
+* Advanced Python.
+  * I have been working with python for three years doing a wide variety of things, from scrappers to AI models. Currently I work with python for mantaining workers and Jupyter Notebooks. 
+
+* Google Cloud Platform
+  * Experience working with GCP. Mainly with BigQuery, Pub/Sub and Dataflow.
+
+* Google Tag Manager. 
+  * Good domain of the technology begind GTM. Specially their Server-Side Tagging version.
+
+* Intermediate SQL
+  * I work with SQL on my daily basis and I feel comfortable using it. 
 
 
-### Research interests
+### Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+I am looking for challenges. Data Engineering is something that is constantly changing and the stacks behind it are turning more powerful year after year, this is one of the reasons why I love this job so much. That being said, I am looking for a place to master my skills and become a proficient engineer. 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2016-2020`
+__Computer Engineering, Universitat Pompeu Fabra__
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2021 -->
 
 
