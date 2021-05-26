@@ -6,9 +6,9 @@ title: Gerard Camps's CV
 Data engineer.
 
 <div id="webaddress">
-<a href="gerardcamps0@gmail.com">gerardcamps0@gmail.com</a>
-<a href="https://www.linkedin.com/in/gerard-camps-70b471185">LinkedIn</a>
-Phone: +34664619751
+<a href="gerardcamps0@gmail.com">gerardcamps0@gmail.com</a> |
+<a href="https://www.linkedin.com/in/gerard-camps-70b471185">My LinkedIn</a>
+| +34664619751
 </div>
 
 
@@ -19,24 +19,20 @@ Data Engineer @ [Holded](https://www.linkedin.com/company/holded/)
 Since 2019 I work at Holded. Started as a QA Engineer intern while finishing my degree and then moved to the Data Team (which has always been what I wanted to do in the first place). Good thing about QA-ing is that I developed my inner scrum-master. 
 
 As of now, I have been working for a year on the Data team as a Data Engineer. My tasks consist on the following:
-- Develop and mantain our ELT pipelines to populate our DW.
-- Working (a lot) with different APIs to create integrations on data destinations for reverse ETL.
-- Mantaining GTM on a Server-Side approach. 
-- Working closely with the Analytics and Growth teams to coordinate their Data needs. 
+* - Develop and mantain our ELT pipelines to populate our DW.
+* - Working (a lot) with different APIs to create integrations on data destinations for reverse ETL.
+* - Mantaining GTM on a Server-Side approach. 
+* - Working closely with the Analytics and Growth teams to coordinate their Data needs. 
 
 ### My skills
 
-* Advanced Python.
-    I have been working with python for three years doing a wide variety of things, from scrappers to AI models. Currently I work with python for mantaining workers and Jupyter Notebooks. 
+* Advanced Python | I have been working with python for three years doing a wide variety of things, from scrappers to AI models. Currently I work with python for mantaining workers and Jupyter Notebooks. 
 
-* Google Cloud Platform
-    Experience working with GCP. Mainly with BigQuery, Pub/Sub and Dataflow.
+* Google Cloud Platform | Experience working with GCP. Mainly with BigQuery, Pub/Sub and Dataflow.
 
-* Google Tag Manager. 
-    Good domain of the technology begind GTM. Specially their Server-Side Tagging version.
+* Google Tag Manager | Good domain of the technology begind GTM. Specially their Server-Side Tagging version.
 
-* Intermediate SQL
-    I work with SQL on my daily basis and I feel comfortable using it. 
+* Intermediate SQL | I work with SQL on my daily basis and I feel comfortable using it. 
 
 
 ### Interests
