@@ -25,16 +25,16 @@ As of now, I have been working for a year on the Data team as a Data Engineer. M
 ### My skills
 
 * Advanced Python.
-  * I have been working with python for three years doing a wide variety of things, from scrappers to AI models. Currently I work with python for mantaining workers and Jupyter Notebooks. 
+* I have been working with python for three years doing a wide variety of things, from scrappers to AI models. Currently I work with python for mantaining workers and Jupyter Notebooks. 
 
 * Google Cloud Platform
-  * Experience working with GCP. Mainly with BigQuery, Pub/Sub and Dataflow.
+* Experience working with GCP. Mainly with BigQuery, Pub/Sub and Dataflow.
 
 * Google Tag Manager. 
-  * Good domain of the technology begind GTM. Specially their Server-Side Tagging version.
+* Good domain of the technology begind GTM. Specially their Server-Side Tagging version.
 
 * Intermediate SQL
-  * I work with SQL on my daily basis and I feel comfortable using it. 
+* I work with SQL on my daily basis and I feel comfortable using it. 
 
 
 ### Interests
